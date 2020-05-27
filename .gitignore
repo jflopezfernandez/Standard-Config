@@ -1,6 +1,7 @@
 
 # Visual Studio Code
 /.vscode/
+.vstags
 
 # Python Virtual Environment
 /docs/.venv/
