@@ -1,3 +1,13 @@
+
+# Visual Studio Code
+/.vscode/
+
+# Python Virtual Environment
+/docs/.venv/
+
+# Sphinx Files
+docs/_build/
+
 # Prerequisites
 *.d
 
