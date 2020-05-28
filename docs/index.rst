@@ -9,6 +9,10 @@ StdConf
 Welcome to StdConf's documentation!
 ------------------------
 
+.. image:: https://readthedocs.org/projects/stdconf/badge/?version=latest
+   :target: https://stdconf.readthedocs.io/en/latest/?badge=latest
+   :alt: Documentation Status
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
